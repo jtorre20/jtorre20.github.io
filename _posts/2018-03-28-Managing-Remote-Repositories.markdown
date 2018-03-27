@@ -14,5 +14,5 @@ to be remote is just to be elsewhere. It is within reason to think of something 
 
 Git Commands
 
-<!--In order to see a list of the remote servers that we have configured we use {% highlight %} git remote {% endhighlight %}. The server which you clone from is labeled and known as {% highlight %} origin {% endhighlight %}. Personally, I find this nomenclature easier for remembering out which is the original branch.-->
+<!--In order to see a list of the remote servers that we have configured we use . The server which you clone from is labeled and known as . Personally, I find this nomenclature easier for remembering out which is the original branch.-->
 

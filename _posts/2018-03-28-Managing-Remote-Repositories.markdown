@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Managing Our Remote Repositories"
-date:   2018-03-28 21:35:18 -0400
+date:   2018-03-27 12:00:00 -0400
 categories: Git Basics
 ---
 
@@ -14,4 +14,5 @@ to be remote is just to be elsewhere. It is within reason to think of something 
 
 Git Commands
 
-In order to see a list of the remote servers that we have configured we use {% highlight %} git remote {% endhighlight %}. The server which you clone from is labeled and known as {% highlight %} origin {% endhighlight %}. Personally, I find this nomenclature easier for remembering out which is the original branch.
+<!--In order to see a list of the remote servers that we have configured we use {% highlight %} git remote {% endhighlight %}. The server which you clone from is labeled and known as {% highlight %} origin {% endhighlight %}. Personally, I find this nomenclature easier for remembering out which is the original branch.-->
+

@@ -7,7 +7,7 @@ categories: Git Basics
 
 Managing remote repositories can include adding remote repositories, removing remotes that are no longer valid, managing various remote branches and defining them as being tracked or not among an array of many other valuable skills.
 
-What doe "Remote" even mean?
+What does "Remote" even mean?
 
 Lets decode and clear up what it means for something to be remote. If we break it down to its simplest explanation,
 to be remote is just to be elsewhere. It is within reason to think of something that is remote as existing somewhere else on the network/Internet.  However, this doesn't always have to be the case. We could be working on a remote branch that resides on our host machine.

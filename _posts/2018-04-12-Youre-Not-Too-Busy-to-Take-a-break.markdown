@@ -5,11 +5,19 @@ date:   2018-04-12 12:00:00 -0400
 categories: 
 ---
 
-It might seem that your to-do list never ceases to grow. So much so, that you can't possibly find the time to stop your work even for 5 or 10 minutes for something as pointless as a break. Not so fast, though. It's important to not just go about your day the way that you always have, especially when you know theres a better way of doing something.  Managing remote repositories can include adding remote repositories, removing remotes that are no longer valid, managing various remote branches and defining them as being tracked or not, among an array of many other skills.
+It might seem that your to-do list never ceases to grow. So much so, that you can't possibly find the time to stop your work even for 5 or 10 minutes for something as pointless as a break. Not so fast, though. It's important to not simply go about your day as usual, especially when you know theres a better way of doing something. Allocating time for breaks will in the long run make you happier, increase your focus, lead to better productivity and make you a better worker.  The alternative can have damaging effects on your productivity and mental state.
 
-What does "Remote" even mean?
+<h2>Reasons to Prioritize Breaks</h2>
 
-First of all, what does it even mean for something to be remote? Lets decode and clear up what it means for something to be remote. If we break it down to its simplest explanation, to be remote is just to be elsewhere. It is within reason to think of something that is remote as existing somewhere else on the network/Internet.  However, this doesn't always have to be the case. We could be working on a remote branch that resides on our host machine.
+<ol>
+    <li>Breaks keep people from getting bored, distracted, tired, and unfocused.</li></br>
+    
+    <p>As many people are aware and may have experienced , after an extended period of time working on a task or project, your brain may start to wander. This can be attributed to fatigue setting in. </p>
+    
+    <li>Working for too long can strain your muscles and lead to pain.</li>
+    <li>Humans are not biologically or physically wired to focus on one task for very long, and forcing it does not help.</li>
+        <p>When your brain gets tired, you will lose concentration, be less able to absorb information, and be less able to solve problems</p>
+</ol>
 
 <h2>Some Git Basics Commands</h2>
 

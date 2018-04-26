@@ -1,19 +1,20 @@
 ---
 layout: post
 title:  "Extensions for Happier Coding"
-date:   2018-04-27 12:00:00 -0400
+date:   2018-04-25 12:00:00 -0400
 categories: 
 ---
 
-It might seem that your to-do list never ceases to grow. So much so, that you can't possibly find the time to stop your work even for 5 or 10 minutes for something as pointless as a break. Not so fast, though. It's important to not simply go about your day as usual, especially when you know theres a better way of doing something. Allocating time for breaks will in the long run make you happier, increase your focus, lead to better productivity and make you a better worker.  The alternative can have damaging effects on your productivity and mental state.
+As future web developers, our text editor can seem dear to us. It can even be easy to get a bit too attached to our beloved editors. However, no matter your editor of choice, its chief purpose is to boost your productivity. In order to do that I wanted to discuss a few extensions that we may want to consider using to calibrate our editors so that we get the most work done.
 
-<h2>Reasons to Prioritize Breaks</h2>
+# 1. Prettier
 
-<ol>
+    Prettier is a code formatter. It will try to standardize your coding style by removing all original styling and then reprints it, outputting a code that conforms to a consistent style. Prettier is compatible and has support for various languages including Javascript (to include ES2017), CSS, Typescript, and Markdown to name a few. Other languages are also in the works like Ruby and Python, for example.
+
     <li>Breaks keep people from getting bored, distracted, tired, and unfocused.</li><br/>
-    
+
     <p>As many people are aware and may have experienced , after an extended period of time working on a task or project, your brain may start to wander. This can be attributed to fatigue setting in. </p>
-    
+
     <li>Working for too long can strain your muscles and lead to pain.</li><br/>
     
         <p>Not taking breaks can lead to higher stress, irritability, and long-term health risk such as depression, heart disease, and diabetes</p>

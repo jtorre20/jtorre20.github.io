@@ -28,7 +28,6 @@ and Python, for example.
     done, you can direct it to the developer responsible for that change.
 
 ![alt text](/images/gitlens.gif "Gitlens")
-  
 
 ## 3. TODO
 

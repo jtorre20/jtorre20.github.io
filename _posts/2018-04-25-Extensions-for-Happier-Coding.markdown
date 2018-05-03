@@ -40,3 +40,5 @@ or a note for someone else all you need to do with this extension is type a comm
 
     This is an extension that allows you to debug your Javascript code directly from the
     editor, or other targets that support the Chrome Devtools Protocol.
+
+## 5. Code Spell Checker
